@@ -8,8 +8,8 @@
     <item name="wifi.on">0.1</item>
     <item name="wifi.active">345.59</item>
     <item name="wifi.scan">21.98</item>
-    <item name="dsp.audio">16.71</item>
-    <item name="dsp.video">39.63</item>
+    <item name="audio">16.71</item>
+    <item name="video">39.63</item>
     <item name="camera.flashlight">367.29</item>
     <item name="camera.avg">470.28</item>
     <item name="gps.on">42.39</item>
@@ -150,8 +150,8 @@
         <value>392.75</value>
         <value>446.32</value>
     </array>
-    <item name="cpu.awake">15.44</item>
-    <item name="cpu.idle">6.48</item>
+    <item name="cpu.idle">15.44</item>
+    <item name="cpu.suspend">6.48</item>
     <item name="battery.capacity">3300</item>
     <item name="wifi.controller.idle">0</item>
     <item name="wifi.controller.rx">0</item>
